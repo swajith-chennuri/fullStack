@@ -1,0 +1,38 @@
+.main{
+    background-color: cornflowerblue;
+    height: 200px;
+    padding-top: 30px;
+}
+.mainsub{
+    text-align: center;
+}
+.button1{
+    background-color: antiquewhite;
+    border-radius: 30px;
+}
+.button2{
+    background-color:aqua;
+    border-radius: 30px;
+}
+.button2:hover{
+    background-color: rgb(5, 238, 79);
+}
+.imgdiv{
+    text-align: center;
+    width: 30%;
+}
+.imgsource{
+    width:200px;
+    height:auto;
+    border-radius: 30px;
+    margin: 10px;
+}
+.name{
+    width: auto;
+    text-align: center;
+}
+.info{
+    width: 100%;
+    height{200px}
+    text-align: center;
+}

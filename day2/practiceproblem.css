@@ -1,0 +1,68 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(231, 239, 246);
+    padding: 2px;
+    margin: 5px;
+    border-color: black;
+}
+.headlogo{
+    width: 100px;
+    height: 50px;
+}
+.navoptions{
+    width: auto;
+    height: 50px;
+    text-align: right;
+}
+.links{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    border-color: black;
+    background-color: aquamarine;
+    text-align: end;
+}
+.aside{
+    width: 15%;
+    height: 500px;
+    background-color: rgb(198, 204, 245);
+    text-align: center;
+}
+.section1{
+    width: 85%;
+    height: 500px;
+    text-align: center;
+    background-color: rgb(156, 199, 249);
+}
+.gate{
+    width: 100%;
+    height: 100%;
+}
+.footercss{
+    text-align: center;
+    background-color: rgb(114, 127, 243);
+}
+.courseimg{
+    width: 100%;
+    height: 100%;
+}
+.section2{
+    background-color: rgb(122, 137, 234);
+    text-align: left;
+    width: 100%;
+    height: 500px;
+}
+.section3{
+    background-color: rgb(105, 154, 245);
+    text-align: left;
+    width: 100%;
+    height: 500px;
+}
+.contact{
+        background-color: rgb(129, 129, 244);
+        text-align: left;
+        width: 100%;
+        height: 500px;
+        margin:0;
+}

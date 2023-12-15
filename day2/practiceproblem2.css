@@ -1,0 +1,37 @@
+.mainheader{
+    text-align: center;
+    background-color: rgb(138, 134, 134);
+}
+.navbar{
+    text-align: end;
+    background-color: aliceblue;
+    padding: 2px;
+    margin: 5px;
+    border-radius: 50%;
+    border-color: black;
+}
+.links{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    border-color: black;
+    background-color: aquamarine;
+}
+.section1{
+    background-color: cornflowerblue;
+    text-align: center;
+}
+.section2{
+    background-color: rgb(64, 88, 134);
+    text-align: left;
+    width: 50%;
+    height: 200px;
+}
+.main1{
+    text-align: left;
+    background-color: rgb(138, 134, 134);
+}
+.mainfooter{
+    text-align: center;
+    background-color: rgb(138, 134, 134);
+}

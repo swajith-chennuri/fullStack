@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+        background-color: black;
+        margin: 0%;
+        padding: 0%;
+    }
+
+    .main {
+        width: 300px;
+        height: 400px;
+        background-color: aliceblue;
+        margin-left: 50px;
+        overflow: hidden;
+    }
+
+    .national {
+        width: 300px;
+        height: 200px;
+        transition: transform 0.3s ease; /* Add the same transition to the image for a smooth effect */
+    }
+    .main:hover .national {
+        transform: scale(1.1); /* Apply the same zoom to the image inside .main */
+    }
+
+    </style>
+</head>
+<body>C
+    <div style="display: flex;">
+        <div class="main">
+            <img class="national" src="C:\Desktop\fullstack\day2\images\special-offer-hero.jpg.adapt.nineteen-hundred.jpg" alt="">
+            <h1>shipment</h1>
+        </div>
+        <div class="main" >
+            <img class="national" src="C:\Desktop\fullstack\day2\images\special-offer-hero.jpg.adapt.nineteen-hundred.jpg" alt="">
+            <h1>shipment</h1>
+        </div>
+    </div>
+</body>
+</html>
